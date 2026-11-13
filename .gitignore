@@ -1,0 +1,9 @@
+# raw file is not committed: see data/README.md for where to download it
+data/raw/
+# rebuilt by notebooks/01_data_cleaning.ipynb
+data/superstore.db
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+~$*.xlsx
